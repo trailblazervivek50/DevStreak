@@ -1,0 +1,5 @@
+{
+  "name": "DevStreak",
+  "description": "A productivity streak application backend where users create tasks and maintain daily streaks.",
+  "requestFramePermissions": []
+}
